@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Cosmetics e-commerce web site**
 
-- 🌱 I’m currently learning **Laravel, React**
+- 🌱 Currently learning: **Flutter, MERN stack, Laravel,** and **Java** to build scalable and cross-platform applications.
 
 - 💬 Ask me about Anything.
 
