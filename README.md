@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/_thepraveen21_" target="blank"><img src="https://img.shields.io/twitter/follow/_thepraveen21_?logo=twitter&style=for-the-badge" alt="_thepraveen21_" /></a> </p>
 
-- 🔭 I’m currently working on **Cosmetics e-commerce web site**
+- 🔭 Actively building scalable and efficient full-stack web and mobile solutions.
 
-- 🌱 Currently learning: **Flutter, MERN stack, Laravel,** and **Java** to build scalable and cross-platform applications.
+- 🌱 I’m Currently learning: **Flutter, MERN stack, Laravel,** and **Java** to build scalable and cross-platform applications.
 
-- 💬 Ask me about Anything.
+- 💬 Ask me about **Anything**.
 
 - 📫 How to reach me **praveenshamal21@gmail.com**
 
