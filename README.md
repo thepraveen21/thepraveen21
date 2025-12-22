@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Laravel, React**
 
-- 👯 I’m looking to collaborate on **Student Registration & Payment Tracking System**
+- 💬 Ask me about Anything.
 
 - 📫 How to reach me **praveenshamal21@gmail.com**
 
