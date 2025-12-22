@@ -77,5 +77,5 @@
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thepraveen21&theme=dark" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thepraveen21&theme=dark" alt="thepraveen21" />
 </p>
