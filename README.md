@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen Shayamal</h1>
-<h3 align="center">A passionate Full-stack developer from Sri Lanka</h3>
+<h3 align="center">Driven IT Student | Exploring Modern Technologies & Software Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thepraveen21&label=Profile%20views&color=0e75b6&style=flat" alt="thepraveen21" /> </p>
 
