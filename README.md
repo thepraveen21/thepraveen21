@@ -70,12 +70,22 @@
   <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thepraveen21&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="thepraveen21" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepraveen21&show_icons=true&layout=compact&theme=dark&hide_border=true" alt="top languages" />
+<!-- GitHub Status Section -->
+<h3 align="left">GitHub Status:</h3>
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thepraveen21&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="GitHub Stats" />
+  
+  <!-- Most Used Languages -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepraveen21&show_icons=true&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thepraveen21&theme=dark" alt="thepraveen21" />
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thepraveen21&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- Optional: GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thepraveen21&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%">
 </p>
