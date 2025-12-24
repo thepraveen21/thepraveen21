@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Praveen Shayamal</h1>
 <h3 align="center">Driven IT Student | Exploring Modern Technologies & Software Development</h3>
 
@@ -72,11 +71,12 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="left">
+
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thepraveen21&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="thepraveen21" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepraveen21&show_icons=true&layout=compact&theme=dark&hide_border=true" alt="top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepraveen21&show_icons=true&layout=compact&theme=dark&hide_border=true&exclude_repo=github-readme-stats" alt="top languages" />
 </p>
 
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thepraveen21&theme=dark" alt="thepraveen21" />
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com?user=thepraveen21&theme=dark&hide_border=true" alt="thepraveen21" />
 </p>
