@@ -7,22 +7,27 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:FF6B00,100:002EFF&text=I%20am%20Jeewaka%20Supun&fontColor=FFFFFF&fontSize=60&fontAlign=50&animation=fadeIn&stroke=2E2E2E&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:FF6B00,100:002EFF&text=Praveen%20Shayamal&fontColor=FFFFFF&fontSize=60&fontAlign=50&animation=fadeIn&stroke=2E2E2E&strokeWidth=1" />
+</div>
+
+<!-- DROP YOUR IMAGE HERE -->
+<div align="center">
+  <!-- Replace this URL with your image URL -->
+  <img src="YOUR_IMAGE_URL_HERE" alt="Praveen Shayamal" width="200" style="border-radius: 50%; border: 4px solid #FF6B00;" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div>
 
-<h3 align="center" style="color:#FF6B00;">Driven IT Student | Exploring Modern Technologies & Software Development.</h3>
+<h3 align="center" style="color:#FF6B00;">Driven IT Student | Exploring Modern Technologies & Software Development</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B00&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%7C+Creative+Technologist;Crafting+Experiences+with+Code+%26+Design;Scaling+Ideas+with+Modern+Architectures;Turning+UIs+into+User+Journeys" alt="Typing Animation" />
 </div>
 
-</div>
 <div align="center" style="margin-top:10px;">
-  <img src="https://komarev.com/ghpvc/?username=CpatainNEMO&label=Profile%20views&style=for-the-badge&color=002EFF&labelColor=000000" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=J33WAKASUPUN&label=Profile%20views&style=for-the-badge&color=002EFF&labelColor=000000" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/J33WAKASUPUN?label=Followers&style=for-the-badge&color=002EFF&labelColor=000000" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Creative%20Code%20%2B%20Full--Stack%20Development-FF6B00?style=for-the-badge&labelColor=000000" alt="Focus" />
 </div>
@@ -36,10 +41,10 @@ const praveen = {
   code: ["JavaScript", "TypeScript", "Java", "PHP", "Dart"],
   askMeAbout: ["Web Development", "Mobile App Development", "UI/UX Design", "Tech", "AI/ML"],
   technologies: {
-    library: ["React.js", "Tailwind CSS", "Framer Motion", "Bootstrap"],
-    frameworks: ["Next.js", "Flutter", "Vue.js"],
-    backEnd: ["Node.js", "Laravel", "Express.js", "NestJS", "Spring Boot"],
-    devOps: ["Docker", "Github"],
+    frontend: ["React.js", "Vue.js", "Next.js", "Tailwind CSS", "Bootstrap"],
+    mobile: ["Flutter"],
+    backend: ["Node.js", "Express.js", "NestJS", "Laravel", "Spring Boot"],
+    devOps: ["Docker", "GitHub Actions"],
     databases: ["MySQL", "MongoDB", "PostgreSQL", "Firebase"],
     cloud: ["AWS", "Azure", "GCP"]
   },
@@ -50,20 +55,19 @@ const praveen = {
   ],
   interests: [
     "Watching thriller movies & TV series",
-    "Boxing lover & discipline enthusiast"
-    
+    "Boxing enthusiast"
   ],
   funFact: "I believe every problem has a logical solution."
 };
 
 console.log(`
    ============================================
-  🚀 Enter my digital world  
-  🛡️ Developer powered by code and coffee  
-  💻 Clean logic | Sharp UI | Fewer bugs  
-  ⚙️ Debug. Deploy. Repeat.  
-  ✨ Build. Break. Refactor.  
-  🧠 The way forward.
+  🚀 Welcome to my digital space
+  🛡️ Developer fueled by code and coffee
+  💻 Clean logic | Intuitive UI | Robust systems
+  ⚙️ Build. Debug. Deploy. Iterate.
+  ✨ Create. Break. Refactor. Improve.
+  🧠 Moving forward with purpose.
 
    ============================================
 `);
