@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:7EE8FA,100:90EE90&text=Praveen%20Shayamal&fontColor=FFFFFF&fontSize=60&fontAlign=50&animation=fadeIn&stroke=2E2E2E&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:7EE8FA,100:90EE90&text=I%20am%20Praveen%20Shayamal&fontColor=FFFFFF&fontSize=60&fontAlign=50&animation=fadeIn&stroke=2E2E2E&strokeWidth=1" />
 </div>
 
 <!-- DROP YOUR IMAGE HERE -->
@@ -22,8 +22,8 @@
 </div>
 
 <div align="center" style="margin-top:10px;">
-  <img src="https://komarev.com/ghpvc/?username=J33WAKASUPUN&label=Profile%20views&style=for-the-badge&color=7EE8FA&labelColor=000000" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/J33WAKASUPUN?label=Followers&style=for-the-badge&color=7EE8FA&labelColor=000000" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=thepraveen21&label=Profile%20views&style=for-the-badge&color=7EE8FA&labelColor=000000" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/thepraveen21?label=Followers&style=for-the-badge&color=7EE8FA&labelColor=000000" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Creative%20Code%20%2B%20Full--Stack%20Development-90EE90?style=for-the-badge&labelColor=000000" alt="Focus" />
 </div>
 <br/>
