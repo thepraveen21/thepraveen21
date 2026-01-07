@@ -13,7 +13,7 @@
 <!-- DROP YOUR IMAGE HERE -->
 <div align="center">
   <!-- Replace this URL with your image URL -->
-  <img src="YOUR_IMAGE_URL_HERE" alt="Praveen Shayamal" width="200" style="border-radius: 50%; border: 4px solid #7EE8FA;" />
+  <img src="[YOUR_IMAGE_URL_HERE](https://github.com/thepraveen21/thepraveen21/git_hub_image.png)" alt="Praveen Shayamal" width="200" style="border-radius: 50%; border: 4px solid #7EE8FA;" />
 </div>
 
 <div align="center">
