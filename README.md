@@ -7,29 +7,29 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:FF6B00,100:002EFF&text=Praveen%20Shayamal&fontColor=FFFFFF&fontSize=60&fontAlign=50&animation=fadeIn&stroke=2E2E2E&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:7EE8FA,100:90EE90&text=Praveen%20Shayamal&fontColor=FFFFFF&fontSize=60&fontAlign=50&animation=fadeIn&stroke=2E2E2E&strokeWidth=1" />
 </div>
 
 <!-- DROP YOUR IMAGE HERE -->
 <div align="center">
   <!-- Replace this URL with your image URL -->
-  <img src="YOUR_IMAGE_URL_HERE" alt="Praveen Shayamal" width="200" style="border-radius: 50%; border: 4px solid #FF6B00;" />
+  <img src="YOUR_IMAGE_URL_HERE" alt="Praveen Shayamal" width="200" style="border-radius: 50%; border: 4px solid #7EE8FA;" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div>
 
-<h3 align="center" style="color:#FF6B00;">Driven IT Student | Exploring Modern Technologies & Software Development</h3>
+<h3 align="center" style="color:#90EE90;">Driven IT Student | Exploring Modern Technologies & Software Development</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B00&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%7C+Creative+Technologist;Crafting+Experiences+with+Code+%26+Design;Scaling+Ideas+with+Modern+Architectures;Turning+UIs+into+User+Journeys" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=90EE90&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%7C+Creative+Technologist;Crafting+Experiences+with+Code+%26+Design;Scaling+Ideas+with+Modern+Architectures;Turning+UIs+into+User+Journeys" alt="Typing Animation" />
 </div>
 
 <div align="center" style="margin-top:10px;">
-  <img src="https://komarev.com/ghpvc/?username=J33WAKASUPUN&label=Profile%20views&style=for-the-badge&color=002EFF&labelColor=000000" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/J33WAKASUPUN?label=Followers&style=for-the-badge&color=002EFF&labelColor=000000" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Creative%20Code%20%2B%20Full--Stack%20Development-FF6B00?style=for-the-badge&labelColor=000000" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=J33WAKASUPUN&label=Profile%20views&style=for-the-badge&color=7EE8FA&labelColor=000000" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/J33WAKASUPUN?label=Followers&style=for-the-badge&color=7EE8FA&labelColor=000000" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Creative%20Code%20%2B%20Full--Stack%20Development-90EE90?style=for-the-badge&labelColor=000000" alt="Focus" />
 </div>
 <br/>
 
@@ -76,10 +76,10 @@ console.log(`
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div>
 
-<h3 align="center">Current Focus & Goals</h3>
+<h3 align="center" style="color:#7EE8FA;">Current Focus & Goals</h3>
 <div align="center">
   
-| 🔵 **Working On** | 🟠 **Learning** | 🔵 **Next Goals** |
+| 🟢 **Working On** | 🔵 **Learning** | 🟢 **Next Goals** |
 |:-------:|:-------:|:-------:|
 | Full Stack Web Apps | Advanced AI/ML | Cloud Architecture |
 | Mobile Development | DevOps & Docker | Open Source Contribution |
@@ -91,49 +91,49 @@ console.log(`
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div>
 
-<h3 align="center">GitHub Analytics</h3>
+<h3 align="center" style="color:#90EE90;">GitHub Analytics</h3>
 <p align="center">
 <table align="center">
 <tr border="none">
 <!-- <td width="50%" align="center">
-    <img title="🔥 Streak Stats" alt="Praveen's streak" src="https://streak-stats.demolab.com/?user=J33WAKASUPUN&theme=highcontrast&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&background=0d1117" />
+    <img title="🔥 Streak Stats" alt="Praveen's streak" src="https://streak-stats.demolab.com/?user=J33WAKASUPUN&theme=highcontrast&hide_border=true&ring=90EE90&fire=7EE8FA&currStreakLabel=90EE90&background=0d1117" />
 </td> -->
 <td width="100%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=J33WAKASUPUN&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF6B00&text_color=FFFFFF&bg_color=0d1117&langs_count=8" alt="Praveen's Top Languages" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=J33WAKASUPUN&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=90EE90&text_color=FFFFFF&bg_color=0d1117&langs_count=8" alt="Praveen's Top Languages" />
 </td>
 </tr>
 </table>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J33WAKASUPUN&bg_color=0d1117&color=FF6B00&line=002EFF&point=FF6B00&area=true&hide_border=true&custom_title=Praveen's%20Contribution%20Graph&title_color=FF6B00" width="100%" alt="J33WAKASUPUN's Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J33WAKASUPUN&bg_color=0d1117&color=90EE90&line=7EE8FA&point=90EE90&area=true&hide_border=true&custom_title=Praveen's%20Contribution%20Graph&title_color=90EE90" width="100%" alt="J33WAKASUPUN's Activity Graph"/>
 </p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div>
 
-<h3 align="center">Let's Connect</h3>
+<h3 align="center" style="color:#7EE8FA;">Let's Connect</h3>
 <div align="center">
-<a href="https://www.linkedin.com/in/praveen-shayamal-02242b308/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/praveen-shayamal-02242b308/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" style="filter: brightness(0) invert(1);" /></a>
   &nbsp;
-<a href="https://mail.google.com/mail/?view=cm&to=supunprabodha789@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" height="50" width="50" /></a>
+<a href="https://mail.google.com/mail/?view=cm&to=supunprabodha789@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" height="50" width="50" style="filter: brightness(0) invert(1);" /></a>
 </div>
 <br/>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div>
 
-<h3 align="center">Tech Arsenal</h3>
+<h3 align="center" style="color:#90EE90;">Tech Arsenal</h3>
 <div align="center">
- <img src="https://skillicons.dev/icons?i=idea,rider,webstorm,vscode,pycharm"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="50" height="50"/> 
- <img src="https://skillicons.dev/icons?i=figma,ps"/> 
- <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,swift,net,arduino"/>  
- <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,typescript,bootstrap,tailwindcss,codepen,jquery,java"/>
- <img src="https://skillicons.dev/icons?i=hibernate,regex,postman,spring,flask,mysql,mongodb,prisma,discord"/> 
- <img src="https://skillicons.dev/icons?i=github,git"/>  
- <img src="https://skillicons.dev/icons?i=aws,azure,googlecloud,flutter,firebase,autocad,maven,ai"/>
+ <img src="https://skillicons.dev/icons?i=idea,rider,webstorm,vscode,pycharm&theme=light"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="50" height="50" style="filter: brightness(0.8);" /> 
+ <img src="https://skillicons.dev/icons?i=figma,ps&theme=light"/> 
+ <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,swift,net,arduino&theme=light"/>  
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,typescript,bootstrap,tailwindcss,codepen,jquery,java&theme=light"/>
+ <img src="https://skillicons.dev/icons?i=hibernate,regex,postman,spring,flask,mysql,mongodb,prisma,discord&theme=light"/> 
+ <img src="https://skillicons.dev/icons?i=github,git&theme=light"/>  
+ <img src="https://skillicons.dev/icons?i=aws,azure,googlecloud,flutter,firebase,autocad,maven,ai&theme=light"/>
  </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FF6B00,100:002EFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7EE8FA,100:90EE90" />
 </div>
 
-<h4 align="center">Looking forward to connecting with you! 🚀</h4>
+<h4 align="center" style="color:#90EE90;">Looking forward to connecting with you! 🚀</h4>
