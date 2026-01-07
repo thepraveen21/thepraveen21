@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img width="100%" src="https://github.com/thepraveen21/thepraveen21/git_hub_image.png" />
+    <img width="100%" src="[https://github.com/thepraveen21/thepraveen21/git_hub_image.png](https://github.com/thepraveen21/thepraveen21/blob/main/git_hub_image.png)" />
   </a>
 </div>
 
