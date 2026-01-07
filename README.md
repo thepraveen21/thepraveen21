@@ -12,12 +12,7 @@
 
 <!-- DROP YOUR IMAGE HERE -->
 <div align="center">
-  <!-- Replace this URL with your image URL -->
-  <img src="[YOUR_IMAGE_URL_HERE](https://github.com/thepraveen21/thepraveen21/git_hub_image.png)" alt="Praveen Shayamal" width="200" style="border-radius: 50%; border: 4px solid #7EE8FA;" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div>
 
 <h3 align="center" style="color:#90EE90;">Driven IT Student | Exploring Modern Technologies & Software Development</h3>
@@ -97,7 +92,7 @@ console.log(`
 <tr border="none">
 <td width="100%" align="center">
   <!-- Changed username to thepraveen21 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepraveen21&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=90EE90&text_color=FFFFFF&bg_color=0d1117&langs_count=8&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="Praveen's Top Languages" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thepraveen21&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=90EE90&text_color=FFFFFF&bg_color=0d1117&langs_count=8&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="Praveen's Top Languages" />
 </td>
 </tr>
 </table>
