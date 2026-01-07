@@ -96,14 +96,14 @@ console.log(`
 <table align="center">
 <tr border="none">
 <!-- <td width="50%" align="center">
-    <img title="🔥 Streak Stats" alt="Jeewaka's streak" src="https://streak-stats.demolab.com/?user=J33WAKASUPUN&theme=highcontrast&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&background=0d1117" />
+    <img title="🔥 Streak Stats" alt="Praveen's streak" src="https://streak-stats.demolab.com/?user=J33WAKASUPUN&theme=highcontrast&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&background=0d1117" />
 </td> -->
 <td width="100%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=J33WAKASUPUN&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF6B00&text_color=FFFFFF&bg_color=0d1117&langs_count=8" alt="Jeewaka's Top Languages" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=J33WAKASUPUN&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF6B00&text_color=FFFFFF&bg_color=0d1117&langs_count=8" alt="Praveen's Top Languages" />
 </td>
 </tr>
 </table>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J33WAKASUPUN&bg_color=0d1117&color=FF6B00&line=002EFF&point=FF6B00&area=true&hide_border=true&custom_title=Jeewaka's%20Contribution%20Graph&title_color=FF6B00" width="100%" alt="J33WAKASUPUN's Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J33WAKASUPUN&bg_color=0d1117&color=FF6B00&line=002EFF&point=FF6B00&area=true&hide_border=true&custom_title=Praveen's%20Contribution%20Graph&title_color=FF6B00" width="100%" alt="J33WAKASUPUN's Activity Graph"/>
 </p>
 
 <div align="center">
@@ -112,9 +112,9 @@ console.log(`
 
 <h3 align="center">Let's Connect</h3>
 <div align="center">
-<a href="https://www.linkedin.com/in/praveen-shayamal-02242b308/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/praveen-shayamal-02242b308/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" /></a>
   &nbsp;
-<a href="https://mail.google.com/mail/?view=cm&to=supunprabodha789@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="sandunika-email" height="50" width="50" /></a>
+<a href="https://mail.google.com/mail/?view=cm&to=supunprabodha789@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" height="50" width="50" /></a>
 </div>
 <br/>
 <div align="center">
