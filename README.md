@@ -1,81 +1,135 @@
-<h1 align="center">Hi 👋, I'm Praveen Shayamal</h1>
-<h3 align="center">Driven IT Student | Exploring Modern Technologies & Software Development</h3>
+<div align="center">
+  <a href="#">
+    <img width="100%" src="https://github.com/J33WAKASUPUN/J33WAKASUPUN/blob/main/github_cover_image_5.png" />
+  </a>
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:FF6B00,100:002EFF&text=I%20am%20Jeewaka%20Supun&fontColor=FFFFFF&fontSize=60&fontAlign=50&animation=fadeIn&stroke=2E2E2E&strokeWidth=1" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+</div>
+
+<h3 align="center" style="color:#FF6B00;">Driven IT Student | Exploring Modern Technologies & Software Development.</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B00&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%7C+Creative+Technologist;Crafting+Experiences+with+Code+%26+Design;Scaling+Ideas+with+Modern+Architectures;Turning+UIs+into+User+Journeys" alt="Typing Animation" />
+</div>
+
+</div>
+<div align="center" style="margin-top:10px;">
+  <img src="https://komarev.com/ghpvc/?username=CpatainNEMO&label=Profile%20views&style=for-the-badge&color=002EFF&labelColor=000000" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/J33WAKASUPUN?label=Followers&style=for-the-badge&color=002EFF&labelColor=000000" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Creative%20Code%20%2B%20Full--Stack%20Development-FF6B00?style=for-the-badge&labelColor=000000" alt="Focus" />
+</div>
+<br/>
+
+```javascript
+const praveen = {
+  name: "Praveen Shayamal",
+  location: "Ratnapura, Sri Lanka",
+  email: "praveenshamal21@gmail.com",
+  code: ["JavaScript", "TypeScript", "Java", "PHP", "Dart"],
+  askMeAbout: ["Web Development", "Mobile App Development", "UI/UX Design", "Tech", "AI/ML"],
+  technologies: {
+    library: ["React.js", "Tailwind CSS", "Framer Motion", "Bootstrap"],
+    frameworks: ["Next.js", "Flutter", "Vue.js"],
+    backEnd: ["Node.js", "Laravel", "Express.js", "NestJS", "Spring Boot"],
+    devOps: ["Docker", "Github"],
+    databases: ["MySQL", "MongoDB", "PostgreSQL", "Firebase"],
+    cloud: ["AWS", "Azure", "GCP"]
+  },
+  architecture: [
+    "Serverless Architecture",
+    "Progressive Web Applications (PWA)",
+    "Single Page Applications (SPA)"
+  ],
+  interests: [
+    "Watching thriller movies & TV series",
+    "Boxing lover & discipline enthusiast"
+    
+  ],
+  funFact: "I believe every problem has a logical solution."
+};
+
+console.log(`
+   ============================================
+  🚀 Enter my digital world  
+  🛡️ Developer powered by code and coffee  
+  💻 Clean logic | Sharp UI | Fewer bugs  
+  ⚙️ Debug. Deploy. Repeat.  
+  ✨ Build. Break. Refactor.  
+  🧠 The way forward.
+
+   ============================================
+`);
+```
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+</div>
+
+<h3 align="center">Current Focus & Goals</h3>
+<div align="center">
+  
+| 🔵 **Working On** | 🟠 **Learning** | 🔵 **Next Goals** |
+|:-------:|:-------:|:-------:|
+| Full Stack Web Apps | Advanced AI/ML | Cloud Architecture |
+| Mobile Development | DevOps & Docker | Open Source Contribution |
+| UI/UX Innovation | System Design | Tech Leadership |
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+</div>
+
+<h3 align="center">GitHub Analytics</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thepraveen21&label=Profile%20views&color=0e75b6&style=flat" alt="thepraveen21" />
+<table align="center">
+<tr border="none">
+<!-- <td width="50%" align="center">
+    <img title="🔥 Streak Stats" alt="Jeewaka's streak" src="https://streak-stats.demolab.com/?user=J33WAKASUPUN&theme=highcontrast&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&background=0d1117" />
+</td> -->
+<td width="100%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=J33WAKASUPUN&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF6B00&text_color=FFFFFF&bg_color=0d1117&langs_count=8" alt="Jeewaka's Top Languages" />
+</td>
+</tr>
+</table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J33WAKASUPUN&bg_color=0d1117&color=FF6B00&line=002EFF&point=FF6B00&area=true&hide_border=true&custom_title=Jeewaka's%20Contribution%20Graph&title_color=FF6B00" width="100%" alt="J33WAKASUPUN's Activity Graph"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thepraveen21" alt="thepraveen21" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+</div>
 
-<p align="center">
-  <a href="https://twitter.com/_thepraveen21_" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/_thepraveen21_?logo=twitter&style=for-the-badge" alt="_thepraveen21_" />
-  </a>
-</p>
+<h3 align="center">Let's Connect</h3>
+<div align="center">
+<a href="https://www.linkedin.com/in/praveen-shayamal-02242b308/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
+  &nbsp;
+<a href="https://mail.google.com/mail/?view=cm&to=supunprabodha789@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="sandunika-email" height="50" width="50" /></a>
+</div>
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+</div>
 
-- 🔭 **Actively building:** scalable and efficient full-stack web and mobile solutions.  
-- 🌱 **Currently learning:** **Flutter, MERN stack, Laravel, and Java** to build modern and cross-platform applications.  
-- 💬 **Ask me about:** **React.js, Node.js, Laravel, Flutter, Java, and full-stack development**.  
-- 📫 **How to reach me:** praveenshamal21@gmail.com  
+<h3 align="center">Tech Arsenal</h3>
+<div align="center">
+ <img src="https://skillicons.dev/icons?i=idea,rider,webstorm,vscode,pycharm"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="50" height="50"/> 
+ <img src="https://skillicons.dev/icons?i=figma,ps"/> 
+ <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,swift,net,arduino"/>  
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,typescript,bootstrap,tailwindcss,codepen,jquery,java"/>
+ <img src="https://skillicons.dev/icons?i=hibernate,regex,postman,spring,flask,mysql,mongodb,prisma,discord"/> 
+ <img src="https://skillicons.dev/icons?i=github,git"/>  
+ <img src="https://skillicons.dev/icons?i=aws,azure,googlecloud,flutter,firebase,autocad,maven,ai"/>
+ </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/_thepraveen21_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/praveen-shayamal-02242b308" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/praveen.s.adassooriya" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_thepraveen21_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FF6B00,100:002EFF" />
+</div>
 
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-</p>
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thepraveen21&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="thepraveen21" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepraveen21&show_icons=true&layout=compact&theme=dark&hide_border=true" alt="top languages" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thepraveen21&theme=dark" alt="thepraveen21" />
-</p>
+<h4 align="center">Looking forward to connecting with you! 🚀</h4>
