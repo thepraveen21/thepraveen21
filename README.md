@@ -106,9 +106,9 @@ console.log(`
 
 <h3 align="center" style="color:#7EE8FA;">Let's Connect</h3>
 <div align="center">
-<a href="https://www.linkedin.com/in/praveen-shayamal-02242b308/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" style="filter: brightness(0) invert(1);" /></a>
+<a href="https://www.linkedin.com/in/praveen-shayamal-02242b308/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" /></a>
   &nbsp;
-<a href="https://mail.google.com/mail/?view=cm&to=supunprabodha789@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" height="50" width="50" style="filter: brightness(0) invert(1);" /></a>
+<a href="https://mail.google.com/mail/?view=cm&to=praveenshamal21@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" height="50" width="50" /></a>
 </div>
 <br/>
 <div align="center">
@@ -117,7 +117,7 @@ console.log(`
 
 <h3 align="center" style="color:#90EE90;">Tech Arsenal</h3>
 <div align="center">
- <img src="https://skillicons.dev/icons?i=idea,rider,webstorm,vscode,pycharm&theme=light"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="50" height="50" style="filter: brightness(0.8);" /> 
+ <img src="https://skillicons.dev/icons?i=idea,rider,webstorm,vscode,pycharm&theme=light"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="50" height="50" /> 
  <img src="https://skillicons.dev/icons?i=figma,ps&theme=light"/> 
  <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,swift,net,arduino&theme=light"/>  
  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,typescript,bootstrap,tailwindcss,codepen,jquery,java&theme=light"/>
@@ -130,4 +130,4 @@ console.log(`
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7EE8FA,100:90EE90" />
 </div>
 
-<h4 align="center" style="color:#90EE90;">Looking forward to connecting with you! 🚀</h4>
+<h4 align="center" style="color:#90EE90;">Excited to connect and collaborate 🚀</h4>
