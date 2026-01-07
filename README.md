@@ -115,15 +115,15 @@ console.log(`
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div>
 
-<h3 align="center" style="color:#90EE90;">Tech Arsenal</h3>
+<h3 align="center">Tech Arsenal</h3>
 <div align="center">
- <img src="https://skillicons.dev/icons?i=idea,rider,webstorm,vscode,pycharm&theme=light"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="50" height="50" /> 
- <img src="https://skillicons.dev/icons?i=figma,ps&theme=light"/> 
- <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,swift,net,arduino&theme=light"/>  
- <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,typescript,bootstrap,tailwindcss,codepen,jquery,java&theme=light"/>
- <img src="https://skillicons.dev/icons?i=hibernate,regex,postman,spring,flask,mysql,mongodb,prisma,discord&theme=light"/> 
- <img src="https://skillicons.dev/icons?i=github,git&theme=light"/>  
- <img src="https://skillicons.dev/icons?i=aws,azure,googlecloud,flutter,firebase,autocad,maven,ai&theme=light"/>
+ <img src="https://skillicons.dev/icons?i=idea,rider,webstorm,vscode,pycharm"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="50" height="50"/> 
+ <img src="https://skillicons.dev/icons?i=figma,ps"/> 
+ <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,swift,net,arduino"/>  
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,typescript,bootstrap,tailwindcss,codepen,jquery,java"/>
+ <img src="https://skillicons.dev/icons?i=hibernate,regex,postman,spring,flask,mysql,mongodb,prisma,discord"/> 
+ <img src="https://skillicons.dev/icons?i=github,git"/>  
+ <img src="https://skillicons.dev/icons?i=aws,azure,googlecloud,flutter,firebase,autocad,maven,ai"/>
  </div>
 
 <div align="center">
