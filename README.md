@@ -95,15 +95,14 @@ console.log(`
 <p align="center">
 <table align="center">
 <tr border="none">
-<!-- <td width="50%" align="center">
-    <img title="🔥 Streak Stats" alt="Praveen's streak" src="https://streak-stats.demolab.com/?user=J33WAKASUPUN&theme=highcontrast&hide_border=true&ring=90EE90&fire=7EE8FA&currStreakLabel=90EE90&background=0d1117" />
-</td> -->
 <td width="100%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=J33WAKASUPUN&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=90EE90&text_color=FFFFFF&bg_color=0d1117&langs_count=8" alt="Praveen's Top Languages" />
+  <!-- Changed username to thepraveen21 -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepraveen21&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=90EE90&text_color=FFFFFF&bg_color=0d1117&langs_count=8&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="Praveen's Top Languages" />
 </td>
 </tr>
 </table>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J33WAKASUPUN&bg_color=0d1117&color=90EE90&line=7EE8FA&point=90EE90&area=true&hide_border=true&custom_title=Praveen's%20Contribution%20Graph&title_color=90EE90" width="100%" alt="J33WAKASUPUN's Activity Graph"/>
+<!-- Changed username to thepraveen21 and added theme parameter -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thepraveen21&theme=github-compact&bg_color=0d1117&color=90EE90&line=7EE8FA&point=90EE90&area=true&hide_border=true&custom_title=Praveen's%20Contribution%20Graph&title_color=90EE90" width="100%" alt="thepraveen21's Activity Graph"/>
 </p>
 
 <div align="center">
