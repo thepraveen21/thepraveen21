@@ -83,6 +83,7 @@ console.log(`
 </div>
 
 <div align="center">
+  [![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=thepraveen21)](https://github.com/thepraveen21/github-readme-stats)
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div>
 
