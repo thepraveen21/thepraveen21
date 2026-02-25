@@ -22,9 +22,9 @@
 </div>
 
 <div align="center" style="margin-top:10px;">
-  <img src="https://komarev.com/ghpvc/?username=thepraveen21&label=Profile%20views&style=for-the-badge&color=000000&labelColor=7EE8FA" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/thepraveen21?label=Followers&style=for-the-badge&color=7EE8FA&labelColor=000000" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Creative%20Code%20%2B%20Full--Stack%20Development-90EE90?style=for-the-badge&labelColor=000000" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=thepraveen21&label=Profile%20views&style=for-the-badge&color=000000&labelColor=7EE8FA" />
+  <img src="https://img.shields.io/github/followers/thepraveen21?label=Followers&style=for-the-badge&color=7EE8FA&labelColor=000000&cacheSeconds=3600" />
+  <img src="https://img.shields.io/badge/Focus-Creative%20Code%20%2B%20Full--Stack%20Development-90EE90?style=for-the-badge&labelColor=000000" />
 </div>
 <br/>
 
