@@ -94,6 +94,7 @@ console.log(`
 </div>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thepraveen21&theme=tokyonight&fire=90EE90&ring=7EE8FA&currStreakLabel=90EE90&sideNums=FFFFFF&sideLabels=FFFFFF&dates=7EE8FA&background=0d1117&hide_border=true" alt="Praveen's Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thepraveen21&theme=tokyonight&fire=ff8000&ring=0055ff&currStreakLabel=ff8000&background=0d1117&hide_border=true" alt="Github Streak" />
 
 
 </div>
