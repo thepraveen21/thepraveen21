@@ -89,19 +89,12 @@ console.log(`
 <h3 align="center" style="color:#90EE90;">GitHub Analytics</h3>
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=thepraveen21&show_icons=true&theme=tokyonight&title_color=90EE90&icon_color=7EE8FA&text_color=FFFFFF&bg_color=0d1117&hide_border=true" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thepraveen21&show_icons=true&theme=tokyonight&title_color=ff8000&icon_color=ff8000&text_color=0055ff&bg_color=0d1117&hide_border=true" alt="Github Stats" />
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thepraveen21&theme=tokyonight&fire=90EE90&ring=7EE8FA&currStreakLabel=90EE90&background=0d1117&hide_border=true" alt="Github Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thepraveen21&theme=tokyonight&fire=ff8000&ring=0055ff&currStreakLabel=ff8000&background=0d1117&hide_border=true" alt="Github Streak" />
 
-  <br/>
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thepraveen21&theme=github-compact&bg_color=0d1117&color=90EE90&line=7EE8FA&point=90EE90&area=true&hide_border=true&custom_title=Praveen's%20Contribution%20Graph&title_color=90EE90" width="100%" alt="thepraveen21's Activity Graph"/>
-</p>
 </div>
 <p align="center">
 <table align="center">
