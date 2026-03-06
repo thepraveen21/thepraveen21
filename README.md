@@ -89,7 +89,7 @@ console.log(`
 <h3 align="left" style="color:#90EE90;">GitHub Analytics</h3>
 <div align="left">
 <!-- Github State Chart -->
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=thepraveen21&show_icons=true&theme=tokyonight&title_color=90EE90&icon_color=7EE8FA&text_color=FFFFFF&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="Praveen's GitHub Stats" />
 </div>
 <!-- Github Streak Chart -->
