@@ -97,8 +97,6 @@ console.log(`
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepraveen21&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight&title_color=90EE90&text_color=FFFFFF&bg_color=0d1117&langs_count=8" alt="Praveen's Top Languages" />
-
 </div>
 
 <p align="center">
