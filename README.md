@@ -87,7 +87,7 @@ console.log(`
 </div>
 
 <h3 align="center" style="color:#90EE90;">GitHub Analytics</h3>
-<div align="center">
+<div align="left">
 <!-- Github State Chart -->
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=thepraveen21&show_icons=true&theme=tokyonight&title_color=90EE90&icon_color=7EE8FA&text_color=FFFFFF&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="Praveen's GitHub Stats" />
@@ -96,7 +96,7 @@ console.log(`
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thepraveen21&theme=tokyonight&fire=90EE90&ring=7EE8FA&currStreakLabel=90EE90&background=0d1117&hide_border=true" alt="Praveen's Streak" />
 
 </div>
-<p align="center">
+<p align="right">
 <table align="center">
 <tr border="none">
 <td width="100%" align="center">
