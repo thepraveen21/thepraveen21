@@ -93,7 +93,7 @@ console.log(`
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=thepraveen21&show_icons=true&theme=tokyonight&title_color=90EE90&icon_color=7EE8FA&text_color=FFFFFF&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="Praveen's GitHub Stats" />
 </div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thepraveen21&theme=tokyonight&fire=90EE90&ring=7EE8FA&currStreakLabel=90EE90&sideNums=FFFFFF&sideLabels=FFFFFF&dates=7EE8FA&background=0d1117&hide_border=true" alt="Praveen's Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thepraveen21&theme=tokyonight&fire=90EE90&ring=7EE8FA&currStreakLabel=90EE90&background=0d1117&hide_border=true" alt="Praveen's Streak" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thepraveen21&theme=tokyonight&fire=ff8000&ring=0055ff&currStreakLabel=ff8000&background=0d1117&hide_border=true" alt="Github Streak" />
 
 
